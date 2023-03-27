@@ -1,0 +1,15 @@
+function myMoney() {
+  var money = 20;
+  var savings = 500;
+  if (money > savings) {
+    console.log("Nice");
+  }
+}
+ 
+  function mySavings() {
+  var money = 20;
+  var savings = 500;
+ if (savings > money) {
+   console.log("I'm worried");
+  }
+}
